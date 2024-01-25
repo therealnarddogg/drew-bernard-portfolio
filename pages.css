@@ -41,7 +41,8 @@ p {
     display: flex;
     align-items: center; 
     grid-template-columns: 1fr 1fr 1fr;
-    column-gap: 65px;
+    column-gap: 45px;
+    margin: 0px 250px;
     /* border: 2px solid black; */
 }
 
